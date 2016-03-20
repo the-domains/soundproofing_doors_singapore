@@ -2,15 +2,16 @@
     <channel>
         <title><![CDATA[Soundproofing_Doors_Singapore]]></title>
         <description><![CDATA[Soundproofing_Doors_Singapore]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/soundproofing_doors_singapore/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 03:03:17 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 20 Mar 2016 03:08:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/soundproofing_doors_singapore/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <link>undefinedaec26f61-902a-429d-9fb6-6ab1c9d43679/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27cf4e29-b574-42b0-b238-9919ce8214f2.jpg">]]></description>
+            <link>https://thegrid.ai/soundproofing_doors_singapore/aec26f61-902a-429d-9fb6-6ab1c9d43679/index.html</link>
             <guid isPermaLink="false">aec26f61-902a-429d-9fb6-6ab1c9d43679</guid>
-            <pubDate>Sun, 20 Mar 2016 03:02:45 GMT</pubDate>
+            <pubDate>Sun, 20 Mar 2016 03:07:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
