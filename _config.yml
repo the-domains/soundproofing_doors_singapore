@@ -1,0 +1,28 @@
+name: Soundproofing_Doors_Singapore
+favicon: null
+layout_spectrum: 0.6661853406112641
+typography_spectrum: 0.2900892742909491
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.4129213788546622
+  lightness: 0.9929872872307897
+  saturation: 0.5602559116668999
+  rhythmicContrast: 0.43101743841543794
+purpose: []
