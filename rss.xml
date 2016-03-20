@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Soundproofing_Doors_Singapore]]></title>
+        <description><![CDATA[Soundproofing_Doors_Singapore]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 20 Mar 2016 03:03:17 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>undefinedaec26f61-902a-429d-9fb6-6ab1c9d43679/index.html</link>
+            <guid isPermaLink="false">aec26f61-902a-429d-9fb6-6ab1c9d43679</guid>
+            <pubDate>Sun, 20 Mar 2016 03:02:45 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
